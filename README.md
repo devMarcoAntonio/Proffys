@@ -34,7 +34,7 @@ ___
    $ cd NLW
 
    # aqui voce rodara um servidor localhost do seu browser para visualisar o projeto
-   $ npm rum dev
+   $ npm run dev
 ```
 
 Desenvolvido✨ por Marco Antonio Figueiredo Braz
